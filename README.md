@@ -32,10 +32,9 @@ The COVID‍-19 Statewise Tracker lets users select or type an Indian state (wit
 - 🧽 Auto-complete suggestions
 - ☐ Threshold-based risk zones:
   - ≤ 10k: Low Risk 🟢
-  - ≤ 100k: Moderate Risk �\dfe1
+  - ≤ 100k: Moderate Risk 🟡
   - ≤ 500k: High Risk 🟠
-  -
-    >  500k: Critical Zone 🔴
+  - >  500k: Critical Zone 🔴
 
 ---
 
